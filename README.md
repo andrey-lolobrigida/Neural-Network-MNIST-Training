@@ -2,7 +2,7 @@
 A deep neural network script.
 
 Built from scratch, with customizable layer architecture and learning rate.
-Plus, it includes a script for training it on the MNIST Dataset, using stochastic gradient descent
+Plus, it includes a script for training it on the MNIST dataset, using stochastic gradient descent
 as the training method.
 
 Made for learning/practice purposes.
