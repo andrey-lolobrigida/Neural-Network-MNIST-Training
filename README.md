@@ -2,8 +2,8 @@
 A deep neural network script.
 
 Built from scratch, with customizable layer architecture and learning rate.
-Plus, we included a script for training it on the MNIST Dataset, using the Stochastic Gradient Descent
-as the learning method.
+Plus, it includes a script for training it on the MNIST Dataset, using stochastic gradient descent
+as the training method.
 
 Made for learning/practice purposes.
 
